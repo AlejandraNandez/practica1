@@ -80,5 +80,5 @@
 
     - name: Clone diariostic repository
       git:
-        repo: 'https://github.com/josearenasmanrique/consulta.git'
-        dest: /var/www/JJARENAS.com/consulta
+        repo: 'https://github.com/alejandranandez/consulta.git'
+        dest: /var/www/anandez.com/consulta
