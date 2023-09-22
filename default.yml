@@ -1,0 +1,7 @@
+---
+mysql_root_password: "12345"
+app_user: "nanglez"
+http_host: "anandez.com"
+http_conf: "anandez.com.conf"
+http_port: "80"
+disable_default: true
